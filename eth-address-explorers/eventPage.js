@@ -14,9 +14,6 @@ const explorersInfo = {
   Nansen: {
     baseUrl: "https://pro.nansen.ai/wallet-profiler?address=",
   },
-  OpenSea: {
-    baseUrl: "https://opensea.io/",
-  },
   Zapper: {
     baseUrl: "https://zapper.fi/account/",
   },
