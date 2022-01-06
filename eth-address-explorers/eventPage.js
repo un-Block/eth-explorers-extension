@@ -5,9 +5,6 @@ const explorersInfo = {
   Ftmscan: {
     baseUrl: "https://ftmscan.com/address/",
   },
-  Ethtective: {
-    baseUrl: "https://ethtective.com/address/",
-  },
   Nansen: {
     baseUrl: "https://pro.nansen.ai/wallet-profiler?address=",
   },
