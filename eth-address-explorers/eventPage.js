@@ -1,7 +1,4 @@
 const explorersInfo = {
-  Breadcrumbs: {
-    baseUrl: "https://www.breadcrumbs.app/reports/",
-  },
   Debank: {
     baseUrl: "https://debank.com/profile/",
   },
