@@ -5,8 +5,8 @@ const explorersInfo = {
   Debank: {
     baseUrl: "https://debank.com/profile/",
   },
-  Etherscan: {
-    baseUrl: "https://etherscan.io/address/",
+  Ftmscan: {
+    baseUrl: "https://ftmscan.com/address/",
   },
   Ethtective: {
     baseUrl: "https://ethtective.com/address/",
