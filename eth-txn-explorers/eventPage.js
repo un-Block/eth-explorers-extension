@@ -2,12 +2,6 @@ const explorersInfo = {
   FTMscan: {
     baseUrl: "https://ftmscan.com/tx/",
   },
-  Bloxy: {
-    baseUrl: "https://bloxy.info/tx/",
-  },
-  "Ethtx.info": {
-    baseUrl: "https://ethtx.info/mainnet/",
-  },
   Tenderly: {
     baseUrl: "https://dashboard.tenderly.co/tx/mainnet/",
   },
