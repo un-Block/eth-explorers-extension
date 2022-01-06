@@ -1,6 +1,6 @@
 const explorersInfo = {
-  Etherscan: {
-    baseUrl: "https://etherscan.io/tx/",
+  FTMscan: {
+    baseUrl: "https://ftmscan.com/tx/",
   },
   Bloxy: {
     baseUrl: "https://bloxy.info/tx/",
