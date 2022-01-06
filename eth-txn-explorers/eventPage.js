@@ -3,7 +3,7 @@ const explorersInfo = {
     baseUrl: "https://ftmscan.com/tx/",
   },
   Tenderly: {
-    baseUrl: "https://dashboard.tenderly.co/tx/mainnet/",
+    baseUrl: "https://dashboard.tenderly.co/tx/fantom/",
   },
 };
 
