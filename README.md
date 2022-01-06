@@ -4,7 +4,7 @@ This repository contains two folders with two extensions that work for address a
 
 ## 1. ftm-address-explorers
 
-Supercharge your Etherscan experience! Right-click on any address link and instantly analyze it on popular tools like Zapper, Nansen, OpenSea and more.
+Supercharge your Ftmscan experience! Right-click on any address link and instantly analyze it on popular tools like Zapper, Nansen and more.
 
 It also works on any page, by selecting the address text and right-clicking to choose from the list of explorers and dashboards.
 
@@ -12,7 +12,7 @@ It also works on any page, by selecting the address text and right-clicking to c
 
 ## 2. ftm-txn-explorers
 
-Select transaction hash on any page, and easily view it on the most popular Ethereum explorers like Etherscan, Bloxy, Tenderly and Ethtxn.info.
+Select transaction hash on any page, and easily view it on the most popular Fantom explorers like Fantomscan, Tenderly.
 
 <img src="./.github/ss2.jpg" />
 
